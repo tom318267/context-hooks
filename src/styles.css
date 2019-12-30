@@ -1,0 +1,39 @@
+.bg-light {
+  background-color: #744BEB!important;
+}
+
+.nav-background {
+  background-color: red;
+}
+
+a.nav-link {
+  color: white!important;
+}
+
+.custom-control-label {
+  color: white;
+}
+
+.Form {
+  background-color: white;
+  text-align: center;
+  border: 1px solid grey;
+  padding: 3rem;
+  width: 50%;
+  margin: 10rem auto;
+  box-shadow: 1px 1px 4px grey;
+}
+
+.fas.fa-lock {
+  font-size: 85px;
+  color: #744BEB;
+}
+
+button {
+  background-color: #744BEB!important;
+  border-color: #744BEB!important;
+}
+
+button:hover {
+  background-color: #453F9E!important;
+}
